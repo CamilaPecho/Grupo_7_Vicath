@@ -35,6 +35,9 @@ Integrantes:
   &nbsp;&nbsp;&nbsp;&nbsp;Me egresé el 2019 de un colegio con orientación en técnico informatico, por lo que tengo conocimientos sobre programación y base de datos 💻. Mi pasión por la tecnologia empezó cuando eran a mi a quien buscaban para repararles ya sea la television o celulares. Y actualmente me encuentro estudiando la carrera de Ing. en Sistemas, elegí la UTN por su alto prestigio y porque ofrece asignaturas muy novedosas y desafiantes como por ejemplo: inteligencia artificial, matematicas y programación de alto nivel. 
 
 <b>Candela Ergas</b> -> <br>
+  Hola!Como menciona arriba soy Candela Ergas, tengo 22 años y vivo en Lanús.
+  Este es mi primer acercamiento al mundo de la programación, anteriormente he estudiado en el profesorado de Ed.Inicial, decidí cambiar porque me pareció super interesante la cultura de trabajo en el rubro IT, la forma en la que se valoran y promueven los conocimientos y aprendizajes, y la manera en que la comunidad siempre brinda una mano para que otros puedan crecer.
+  Estoy muy contenta con este proyecto porque es una excelente oportunidad para poder aplicar los conocimientos que vamos adquiriendo, y para trabajar con mis compañeros dando lo mejor de nosotros, espero que les guste!
 
 <b>Camila Pecho</b> -> <br>
   Que tal, una brebe descripcion de mi persona, tengo 22 años, en general tengo muchos intereses pero 
