@@ -33,7 +33,6 @@ Integrantes:
 <b>Limberth Estrada</b> -> <br>
       &nbsp;&nbsp;&nbsp;&nbsp;Hola, qué tal 👋!. Mi nombre completo es Limberth Daniel Vasquez Estrada. Tengo 21 años y me encuentro en capital federal en el barrio de Mataderos.  
   &nbsp;&nbsp;&nbsp;&nbsp;Me egresé el 2019 de un colegio con orientación en técnico informatico, por lo que tengo conocimientos sobre programación y base de datos 💻. Mi pasión por la tecnologia empezó cuando eran a mi a quien buscaban para repararles ya sea la television o celulares. Y actualmente me encuentro estudiando la carrera de Ing. en Sistemas, elegí la UTN por su alto prestigio y porque ofrece asignaturas muy novedosas y desafiantes como por ejemplo: inteligencia artificial, matematicas y programación de alto nivel. 
-  
 
 <b>Candela Ergas</b> -> <br>
 
