@@ -22,11 +22,13 @@ en la ayuda al cliente, de como hacer las compras, contacto directo con el usuar
 
 - https://www.libooks.com/ : Referente paleta de colores, diseño boxes y footer.
 
+<hr>
+
 - Herramientas utilizadas en el grupo:
-- Trello: https://trello.com/invite/b/e6yNouJG/622275ec8d256b56ad145de3466f1cd7/grupo-7
-- Drive: https://drive.google.com/drive/u/1/folders/1MAhgvSVQ5DsT6KcZRbDQ0EC35bJuqM_d
+  - Trello: https://trello.com/invite/b/e6yNouJG/622275ec8d256b56ad145de3466f1cd7/grupo-7
+  - Drive: https://drive.google.com/drive/u/1/folders/1MAhgvSVQ5DsT6KcZRbDQ0EC35bJuqM_d
 
-
+<hr> 
 Integrantes:
 
 <b>Victoria Antelo</b> -> <br>
