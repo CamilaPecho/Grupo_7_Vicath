@@ -27,6 +27,7 @@ en la ayuda al cliente, de como hacer las compras, contacto directo con el usuar
 - Herramientas utilizadas en el grupo:
   - Trello: https://trello.com/invite/b/e6yNouJG/622275ec8d256b56ad145de3466f1cd7/grupo-7
   - Drive: https://drive.google.com/drive/u/1/folders/1MAhgvSVQ5DsT6KcZRbDQ0EC35bJuqM_d
+  - Figma: https://www.figma.com/file/0y99j5JJsVevonChqFAjvT/Wireframes-S1?node-id=0%3A1
 
 <hr> 
 Integrantes:
