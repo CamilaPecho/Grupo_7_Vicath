@@ -1,13 +1,13 @@
-Tematica del sitio: Libreria 
-
-Publico objetivo: Publico general
-
-<b> Pagina de ventas de articulos de libreria. 
-Practica, de facil acceso y manejo, con diversidad de productos para que sea apta para cualquier 
-publico, tales como adultos oficinistas o padres, jovenes universitarios, o quienes
-tengan interes en conocer el mundo de la artistica. </b>
-
-Listado de referentes: 
+<strong>Tematica del sitio:</strong> <br>Libreria Online 🎨
+<hr>
+<strong>Publico objetivo:</strong> <br>Publico general 👪
+<hr>
+<strong>¿De que se trata o que ofrecemos al mundo?:</strong> <br>Pagina de ventas de articulos de libreria. 
+Practica, de facil acceso y manejo 🎈, con diversidad de productos para que sea apta para cualquier 
+publico, tales como adultos oficinistas o padres 👨‍💼, jovenes universitarios, o quienes
+tengan interes en conocer el mundo de la artistica 🎭.
+<hr>
+<strong>Listado de referentes:</strong> 
 
 - https://libreriaslevalle.com/ : Referente por ser una web de venta en argentina
 con una amplia cantidad de productos y marcas conocidas. 
